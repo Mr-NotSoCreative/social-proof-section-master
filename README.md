@@ -20,9 +20,13 @@ Users should be able to:
 - View the optimal layout for the section depending on their device's screen size
 
 ### Screenshot
+### Desktop Preview
 
-![Desktop Preview](./images/Screenshot-Desktop.png)
-![Mobile Preview](./images/Screenshot-mobile.png)
+![img.png](./images/Screenshot-Desktop.png)
+
+### Mobile Preview
+
+![img.png](./images/Screenshot-mobile.png)
 
 ### Links
 
