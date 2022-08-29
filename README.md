@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/Mr-NotSoCreative/social-proof-section-master)
-- Live Site URL: [Live Site URL](https://your-live-site-url.com)
+- Live Site URL: [Live Site URL](https://mr-notsocreative.github.io/social-proof-section-master/)
 
 ## My process
 
