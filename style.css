@@ -141,7 +141,12 @@ h1 {
 }
 .attribution {
     grid-column: 2 / -2;
+    font-size: 11px;
+    text-align: center;
 }
+.attribution a {
+    color: hsl(228, 45%, 44%);
+  }
 @media screen and (max-width: 640px) {
   body {
     background-image: url(./images/bg-pattern-top-mobile.svg),
